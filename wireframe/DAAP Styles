@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-03-16T11:17:02.718Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.7" etag="AncNgJ0yjRON4Hlb3ePs" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-16T11:19:29.335Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ZQidDTAShihz6GG6uKVG" version="24.0.7" type="github">
   <diagram name="Page-1" id="IC5kOlRS2Q5Lp0ca9iw8">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PzRDQ3tke2cjYlWJvsjD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PzRDQ3tke2cjYlWJvsjD-2" target="PzRDQ3tke2cjYlWJvsjD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PzRDQ3tke2cjYlWJvsjD-2" value="Connect to Waller" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="40" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PzRDQ3tke2cjYlWJvsjD-5" value="MetaMask Check" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="150" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
